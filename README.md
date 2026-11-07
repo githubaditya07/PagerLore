@@ -59,22 +59,23 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## 🌟 Key Application Routes
 
-- `/` — Cinematic Landing Page with interactive telemetry particle canvas.
+- `/` — **The Incident Time Machine:** Cinematic Temporal landing page with 3D Astronomical Clock (Three.js WebGL), scroll-driven time reversal sequence, and pattern memory showcase.
 - `/command` — Central Incident Command Center with live MTTR metrics and health feed.
-- `/theatre` — **Signature Feature:** Side-by-side comparative benchmark showing the same incident diagnosed **WITHOUT MEMORY vs. WITH HINDSIGHT**.
-- `/investigate?incident=INC-2024-142` — AI SRE Investigation Workspace with a real 7-step progress pipeline.
-- `/vault` — Interactive Knowledge Graph visualizing relationships between memories, services, and resolutions.
+- `/theatre` — **Signature Feature:** Side-by-side comparative benchmark showing the same incident diagnosed **WITHOUT MEMORY vs. WITH HINDSIGHT** (46% vs 96% precision).
+- `/investigate?incident=INC-2024-142` — AI SRE Investigation Workspace with an 8-stage pipeline and explicit Human-in-the-Loop approval gate.
+- `/vault` — Interactive 3D Knowledge Graph visualizing relationships between memories, services, and resolutions.
 - `/topology` — Interactive Service Topology Graph illustrating fault propagation across microservices.
 - `/postmortems` — Post-Mortem recording workflow that triggers Hindsight retention.
 - `/runbooks` — Dynamic executable playbooks automatically generated from retained memories.
 - `/analytics` — MTTR reduction curves, root-cause distribution, and memory growth.
-- `/settings` — Hindsight health check, ping latency test, and demo reset tool.
+- `/settings` — Hindsight health check, ping latency test, and 1-click demo reset tool.
 
 ---
 
-## 📚 Submission Documentation
+## 📚 Submission & Demo Documentation
 
-Complete submission materials are ready in [`docs/submission/`](./docs/submission/):
+Complete hackathon and presentation materials are ready in [`docs/submission/`](./docs/submission/):
+- [`full-website-presentation-script.md`](./docs/submission/full-website-presentation-script.md) — Complete 5-7 minute live presentation & demo pitch script.
 - [`technical-evidence.md`](./docs/submission/technical-evidence.md) — Technical architecture, endpoints, and verification.
 - [`article-title-ideas.md`](./docs/submission/article-title-ideas.md) — 20 technical article titles.
 - [`article-draft.md`](./docs/submission/article-draft.md) — 1,300+ word engineering deep dive.
