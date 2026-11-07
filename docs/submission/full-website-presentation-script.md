@@ -238,3 +238,4 @@
 ### Q4: "How does PagerLore scale to hundreds of microservices?"
 > **Answer:**  
 > *"PagerLore isolates memory banks per service domain while preserving cross-cutting entity relationships in a unified knowledge graph. The Hindsight memory engine operates with sub-100ms retrieval latencies even over thousands of historical incident records."*
+
